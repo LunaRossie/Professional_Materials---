@@ -4,19 +4,31 @@ Table of Contents
 # Description
 # Instruction
 # Github 
-# email address
+# Deployed Website
+# LinkedIn
 # Video Link
-# Hobbies
-# Language
 # License
+# Questions
 
 ## Description
 
-I've created a Porfolio to enhance lesson learned throughout the course to practice .
+I've created a Porfolio to enhance lesson learned throughout the course to practice and show off my web development abilities; particularly in creating a website that displays some information about me, as well as my LinkedIn and Github profile, and a pdf of my resume.
 
 ## Instruction
 
-The user must create a basic repository including gitignore "node_modules" and license "MIT" from Github. The application requires Inquirer package, npm init, and package.json.
+The user must create a basic repository including gitignore "node_modules" and license "MIT" from Github. The project has separate files, and the navbar at the top of the screen allows for navigating among different files.
+
+## Github
+
+https://github.com/LunaRossie/Professional_Materials---
+
+## Deployed Website
+
+https://lunarossie.github.io/Professional_Materials---/
+
+## LinkedIn
+
+https://www.linkedin.com/in/zhunn-altmark-773b38244/
 
 ## License
 
